@@ -1,0 +1,92 @@
+{
+  "name": "white-light",
+  "displayName": "White Light",
+  "publisher": "Ammar-Khan",
+  "description": "This theme has a feel of Notion and your favorite Colours like Red Green Blue Pink Purple Orange White",
+  "icon": "ico.png",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ammar Khan",
+    "email": "ammarkhan101101@gmail.com"
+},
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "White Light",
+    "url": "https://github.com/I-am-Ammar-Khan/White-Light"
+},
+  "keywords": [
+    "monokai",
+    "Color",
+    "Colour",
+    "Theme Pack",
+    "Creative",
+    "Super dark",
+    "Clean themes",
+    "Ammar Khan",
+    "themes",
+    "Shades of Rainbow",
+    "Rainbow",
+    "Shades of Purple",
+    "Purple",
+    "Shades of Blue",
+    "Blue",
+    "Shades of Green",
+    "Green",
+    "Shades of Orange",
+    "Orange",
+    "Shades of Red",
+    "Red",
+    "Shades of White",
+    "ammar"
+],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "White Light - Black",
+        "uiTheme": "vs",
+        "path": "./themes/White Light - Black.json"
+      },
+      {
+        "label": "White Light - Purple",
+        "uiTheme": "vs",
+        "path": "./themes/White Light - purple.json"
+      },
+      {
+        "label": "White Light - Blue",
+        "uiTheme": "vs",
+        "path": "./themes/White Light - Blue.json"
+      },
+      {
+          "label": "White Light - Red",
+          "uiTheme": "vs",
+          "path": "./themes/White Light - Red.json"
+      },
+      {
+        "label": "White Light - Green",
+        "uiTheme": "vs",
+        "path": "./themes/White Light - Green.json"
+      },
+      {
+        "label": "White Light - Pink",
+        "uiTheme": "vs",
+        "path": "./themes/White Light - pink.json"
+      },
+      {
+          "label": "White Light - Yellow",
+          "uiTheme": "vs",
+          "path": "./themes/White Light - Yellow.json"
+        },
+        {
+          "label": "White Light - Orange",
+          "uiTheme": "vs",
+          "path": "./themes/White Light - Orange.json"
+        } 
+    ]
+  }
+}
