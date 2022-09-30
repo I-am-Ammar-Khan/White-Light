@@ -4,11 +4,11 @@
   "publisher": "Ammar-Khan",
   "description": "This theme has a feel of Notion and your favorite Colours like Red Green Blue Pink Purple Orange White",
   "icon": "ico.png",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
     "name": "Ammar Khan",
     "email": "ammarkhan101101@gmail.com"
-},
+  },
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -16,7 +16,7 @@
     "type": "git",
     "directory": "White Light",
     "url": "https://github.com/I-am-Ammar-Khan/White-Light"
-},
+  },
   "keywords": [
     "monokai",
     "Color",
@@ -41,7 +41,7 @@
     "Red",
     "Shades of White",
     "ammar"
-],
+  ],
   "categories": [
     "Themes"
   ],
@@ -63,9 +63,9 @@
         "path": "./themes/White Light - Blue.json"
       },
       {
-          "label": "White Light - Red",
-          "uiTheme": "vs",
-          "path": "./themes/White Light - Red.json"
+        "label": "White Light - Red",
+        "uiTheme": "vs",
+        "path": "./themes/White Light - Red.json"
       },
       {
         "label": "White Light - Green",
@@ -78,15 +78,15 @@
         "path": "./themes/White Light - pink.json"
       },
       {
-          "label": "White Light - Yellow",
-          "uiTheme": "vs",
-          "path": "./themes/White Light - Yellow.json"
-        },
-        {
-          "label": "White Light - Orange",
-          "uiTheme": "vs",
-          "path": "./themes/White Light - Orange.json"
-        } 
+        "label": "White Light - Yellow",
+        "uiTheme": "vs",
+        "path": "./themes/White Light - Yellow.json"
+      },
+      {
+        "label": "White Light - Orange",
+        "uiTheme": "vs",
+        "path": "./themes/White Light - Orange.json"
+      }
     ]
   }
 }
