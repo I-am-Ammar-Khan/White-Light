@@ -14,6 +14,10 @@
 ![Red](images/red.png)
 
 ---
+## White Light - PURPLE
+![purple](images/purple.png)
+
+---
 ## White Light - Yellow
 ![Red](images/Yellow.png)
 
@@ -29,10 +33,6 @@
 ## White Light - Orange
 ![Orang](images/orange.png)
 
-
----
-## White Light - PURPLE
-![purple](images/purple.png)
 
 
 
