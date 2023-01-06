@@ -19,11 +19,7 @@
 
 ---
 ## White Light - Yellow
-<<<<<<< HEAD
-![Red](./img/Yellow.png)
-=======
 ![Red](images/yellow.png)
->>>>>>> d526ce6d3fdfdda8a3f42c389ba45f24b9443782
 
 ---
 ## White Light - PINK
