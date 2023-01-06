@@ -3,35 +3,35 @@
 ### This theme has a feel of Notion and your favorite Colours like Red Green Blue Pink Purple Orange Black
 --- 
 ## White Light - BLACK
-![black](img/Black.png)
+![black](./img/Black.png)
 
 ---
 ## White Light - BLUE
-![blue](img/blue.png)
+![blue](./img/blue.png)
 
 ---
 ## White Light - RED
-![Red](img/red.png)
+![Red](./img/red.png)
 
 ---
 ## White Light - PURPLE
-![purple](img/purple.png)
+![purple](./img/purple.png)
 
 ---
 ## White Light - Yellow
-![Red](img/Yellow.png)
+![Red](./img/Yellow.png)
 
 ---
 ## White Light - PINK
-![pink](img/pink.png)
+![pink](./img/pink.png)
 
 ---
 ## White Light - Green
-![Green](img/green.png)
+![Green](./img/green.png)
 
 ---
 ## White Light - Orange
-![Orang](img/orange.png)
+![Orang](./img/orange.png)
 
 
 
