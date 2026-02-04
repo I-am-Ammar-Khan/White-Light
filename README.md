@@ -19,7 +19,7 @@
 
 ---
 ## White Light - Yellow
-![Red](images/yellow.png)
+![Red](img/yellow.png)
 
 ---
 ## White Light - PINK
