@@ -3,7 +3,7 @@
 ### This theme has a feel of Notion and your favorite Colours like Red Green Blue Pink Purple Orange Black
 --- 
 ## White Light - BLACK
-![black](./img/Black.png)
+![black](./img/black.png)
 
 ---
 ## White Light - BLUE
